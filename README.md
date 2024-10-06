@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **PHP, JavaScript and other hard stuff.**
 
-- 📫 How to reach me **aimankajang2002@gmail.com**
+- 📫 How to reach me? -> **aimankajang2002@gmail.com**
 
 - ⚡ Fun fact **I enjoy running and reading mangas in my free time (certified otaku).**
 
