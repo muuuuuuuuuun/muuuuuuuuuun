@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muuuuuuuuuun&label=Profile%20views&color=0e75b6&style=flat" alt="muuuuuuuuuun" /> </p>
 
-- 🌱 I’m currently learning **PHP, JavaScript and other hard stuff.**
+- 🌱 I’m currently learning **Rust and Flutter, total noob. Also I'm relearning C and C++ as I learn together with Rust.**
 
 - 📫 How to reach me? -> **aimankajang2002@gmail.com**
 
